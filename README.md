@@ -1,7 +1,7 @@
-<h1 align="center">👋 Merhaba, Ben Yiğit Aldemir</h1>
+<h1 align="center">👋 Hi, I'm Yigit Aldemir</h1>
 
 <p align="center">
-  <strong>Lead Frontend Developer @ Robosme</strong><br/>
+  <strong>Lead Frontend Developer @Robosme</strong><br/>
   Building AI-driven CRM and Scalable UI Architectures 🚀
 </p>
 
