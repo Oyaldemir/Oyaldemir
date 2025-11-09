@@ -18,7 +18,7 @@ I specialize in **React**, **TypeScript**, and **AI-integrated CRM platforms**, 
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,js,vue,nuxt,tailwind,redux,nodejs,html,css,sass,figma,vite,webpack,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,js,tailwind,redux,express,nodejs,html,css,jquery,sass,css,cs,figma,vite,webpack,git&theme=dark" />
 </p>
 
 ---
