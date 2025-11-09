@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-I'm a **Lead Frontend Developer** with 5+ years of experience building performant, scalable, and maintainable frontend systems.  
+I'm a **Frontend Developer** with 5+ years of experience building performant, scalable, and maintainable frontend systems.  
 I specialize in **React**, **TypeScript**, and **AI-integrated CRM platforms**, focusing on delivering high-quality user experiences and microfrontend architectures.
 
 Currently leading frontend initiatives at **Robosme** — integrating AI assistants (RoboAI, RoboSight, RoboResponse) into enterprise CRM systems.  
